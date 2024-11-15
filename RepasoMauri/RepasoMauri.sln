@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepasoMauri", "RepasoMauri.csproj", "{338F5C4A-EBF3-4B0D-B808-0AEFF6D5C225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepasoMauriTests", "..\RepasoMauriTests\RepasoMauriTests.csproj", "{FBC9E3AE-DA79-4CDB-BCD7-633B76CADC86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338F5C4A-EBF3-4B0D-B808-0AEFF6D5C225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338F5C4A-EBF3-4B0D-B808-0AEFF6D5C225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338F5C4A-EBF3-4B0D-B808-0AEFF6D5C225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338F5C4A-EBF3-4B0D-B808-0AEFF6D5C225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC9E3AE-DA79-4CDB-BCD7-633B76CADC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC9E3AE-DA79-4CDB-BCD7-633B76CADC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC9E3AE-DA79-4CDB-BCD7-633B76CADC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC9E3AE-DA79-4CDB-BCD7-633B76CADC86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56B996F0-1BCB-4223-99F1-57BFB0C2054D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\RepasoMauri\obj\Debug\RepasoMauri.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\RepasoMauri\obj\Debug\RepasoMauri.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RepasoMauri\bin\Debug\RepasoMauri.exe.config
+C:\Users\Usuario\source\repos\RepasoMauri\bin\Debug\RepasoMauri.exe
+C:\Users\Usuario\source\repos\RepasoMauri\bin\Debug\RepasoMauri.pdb
+C:\Users\Usuario\source\repos\RepasoMauri\obj\Debug\RepasoMauri.exe
+C:\Users\Usuario\source\repos\RepasoMauri\obj\Debug\RepasoMauri.pdb
